@@ -1,9 +1,5 @@
 package com.acme.banking.dbo.demo;
 
-import org.fest.assertions.api.Assertions;
-import org.junit.Assert;
-import org.junit.Assume;
-import org.junit.Ignore;
 import org.junit.Test;
 
 import java.util.ArrayList;
